@@ -1,0 +1,13 @@
+name: proj1
+version: 0.1.0
+
+authors:
+  - Ivo-Balbaert <ivo.balbaert@telenet.be>
+
+targets:
+  proj1:
+    main: src/proj1.cr
+
+crystal: 0.22.0
+
+license: MIT
